@@ -51,6 +51,7 @@ p {
     transition: background-color 0.3s;
     margin: 20px auto;
     width: 300px;
+    height: 25px;
     text-align: left;
 }
 
@@ -58,12 +59,29 @@ p {
     background-color: #c2ccd3;
 }
 
-.social-buttons a img {
+.social-buttons a img1 {
     vertical-align: middle;
     margin-right: 10px;
-    width: 20px;
+    width: 25px;
     height: auto;
 }
+
+.icono-portafolio {
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-left: 0;
+    width: 25px;
+    height: 25px;
+}
+
+.icono-pagina {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 25px;
+    height: auto;
+}
+
+
 
 footer {
     margin: 230px 0;
